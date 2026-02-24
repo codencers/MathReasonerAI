@@ -1,4 +1,4 @@
- Agentic Math Reasoner
+#Agentic Math Reasoner
 
 A modern AI-powered Math & Knowledge Assistant built with:
 
